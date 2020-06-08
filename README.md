@@ -18,3 +18,4 @@ you'll get an error when selecting option 5. Load Character Data
 - To start open a terminal, navigate to where the exp_counter.py script is saved, and enter the
 following:
   - python exp_counter.py
+- Follow the on-screen prompts and enjoy!
