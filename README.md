@@ -12,9 +12,6 @@ details for each member of the party, display them in the terminal, and reduce t
 by how much EXP was earned during battle.
 
 NOTES REGARDING USE:
-- Be sure to include a save_data folder in the same one as you've saved the contents of this
-repository as it's needed to store save data. Also, place save1.txt into this folder. Otherwise
-you'll get an error when selecting option 5. Load Character Data
 - To start open a terminal, navigate to where the exp_counter.py script is saved, and enter the
 following:
   - python exp_counter.py
