@@ -49,7 +49,7 @@ def reduce_exp_function(character_data):
 
 	for name, value in character_data.items():
 		character_data[name] -= exp_reduction
-		if(character_data[name] < 0):
+		if(character_data[name] <= 0):
 			print("\n---")
 			character_data[name] = eval(input("{} leveled up!\nPlease enter a new exp count for {}:".format(name, name)))
 			print("---")
