@@ -1,4 +1,4 @@
-# EXP_Counter
+# EXP_Counter(Python Version)
 Welcome to the EXP Counter.
 This program was designed to make keeping track of a party's EXP total
 easy, using a terminal.
